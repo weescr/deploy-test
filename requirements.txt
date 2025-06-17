@@ -1,2 +1,6 @@
-httpx
-fastapi
+pandas
+numpy
+scipy
+matplotlib
+scikit-learn
+uvicorn[standard]
